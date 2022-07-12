@@ -1,0 +1,81 @@
+{
+    "basics": {
+        "name": "Aditya Nagalwade",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/89784775?v=4",
+        "email": "2021kucp1051@iiitkota.ac.in",
+        "phone": "+919370912569",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have interest in Wed Development and CP",
+        "location": {
+            "address": "Nagpur",
+            "postalCode": "440027",
+            "city": "Nagpur",
+            "countryCode": " India",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "AdityaNagalwade",
+                "url": "https://www.twitter.com/AdityaNagalwade"
+            },
+            {
+                "network": "Github",
+                "username": "Adi-2505",
+                "url": "https://www.github.com/Adi-2505"
+            },
+            {
+                "network": "linkedin",
+                "username": "adityanagalwade",
+                "url": "https://www.linkedin.com/in/adityanagalwade/"
+            },
+            {
+                "network": "Instagram",
+                "username": "thegauravparmar",
+                "url": "https://instagram.com/thegauravparmar"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Git",
+                "C/C++",
+                "Java"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
